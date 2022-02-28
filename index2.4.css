@@ -1,0 +1,9 @@
+div{
+	line-height: 25px;
+	background-color: blue;
+	color: white;
+	margin: auto;
+	overflow: auto;
+	max-width: 600px;
+	width: fit-content;
+}

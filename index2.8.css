@@ -1,0 +1,25 @@
+footer{
+	background-color: limegreen;
+	margin: -10px;
+	padding: 0;
+	position: fixed;
+	height: 60px;
+	width: 100%;
+	bottom: 0;
+}
+
+.list{
+	background-color: bisque;
+	width: 200px;
+	padding: 1px;
+	float: left;
+}
+
+.text{
+	background-color: gray;
+	margin-left: 202px;
+}
+
+.block{
+	background-color: aqua;
+}

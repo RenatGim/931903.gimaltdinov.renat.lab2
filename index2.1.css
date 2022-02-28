@@ -1,0 +1,47 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+header{
+	background-color: #EAEAEA;
+	overflow: hidden;
+	padding-bottom: 30px;
+}
+
+a{
+	color: #FDE95E;
+}
+
+i{
+	color: red;
+}
+
+h1{
+	margin: 0;
+	font-size: 30px;
+}
+
+main{
+	line-height: 25px;
+	font-size: 14px;
+}
+
+footer{
+	background-color: black;
+	text-align: center;
+	clear: both;
+	padding: 5px;
+}
+
+.ContentC{
+	margin-left: 220px;
+	padding-right: 10px
+}
+
+.Left{
+	background-color: #C8FC98;
+	float: left;
+	width: 200px;
+	padding-left: 10px;
+}

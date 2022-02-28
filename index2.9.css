@@ -1,0 +1,11 @@
+div{
+	background-color: blue;
+	color: white;
+	margin: auto;
+	overflow: auto;
+	width: 500px;
+}
+
+img{
+	float: right;
+}

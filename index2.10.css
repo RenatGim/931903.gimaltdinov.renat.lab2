@@ -1,0 +1,11 @@
+div{
+	background-color: aquamarine;
+	width: 200px;
+	height: 100px;
+	margin: 20px;
+}
+
+footer{
+	background-color: bisque;
+	clear: both;
+}

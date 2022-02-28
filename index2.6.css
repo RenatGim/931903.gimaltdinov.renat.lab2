@@ -1,0 +1,12 @@
+div{
+	margin: auto;
+	overflow: auto;
+	width: 450px;
+}
+
+.second{
+	border: solid 10px blue;
+	margin-top: 20px;
+	width: 330px;
+	padding: 50px;
+}

@@ -1,0 +1,33 @@
+main{
+	background-color: aqua;
+	border: solid green 1px;
+}
+
+ul{
+	background-color: bisque;
+
+}
+
+div{
+	background-color: darkgray;
+}
+
+@media (min-width: 701px){
+	ul{
+		width: 400px;
+		float: left;
+		padding-bottom: 10px;
+		padding-top: 10px;
+		margin: 0;
+	}
+
+	div{
+		margin-left: 440px;
+	}
+}
+
+@media (max-width: 700px){
+	li{
+		display: inline;
+	}
+}

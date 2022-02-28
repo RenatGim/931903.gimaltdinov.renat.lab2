@@ -1,0 +1,54 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+header{
+	background-color: #EAEAEA;
+	overflow: hidden;
+	padding-bottom: 30px;
+}
+
+.Left{
+	background-color: #C8FC98;
+	float: left;
+	width: 25%;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+}
+
+.Right{
+	background-color: #FDE95E;
+	float: right;
+	width: 200px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+}
+
+main{
+	margin-right: 220px;
+	margin-left: 26%;
+	padding-left: 15px;
+	padding-right: 10px;
+}
+
+footer{
+	clear: both;
+	background-color: black;
+	text-align:center;
+}
+
+a{
+	color: #FFFF80;
+}
+
+i{
+	color: red;
+}
+
+h1{
+	margin: 0;
+	font-size: 30px;
+}

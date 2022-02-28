@@ -1,0 +1,54 @@
+body{
+	color: white;
+}
+
+.static, .first, .second{
+	width: 150px;
+	height: 100px;
+}
+
+.static{
+	background-color: blueviolet;
+	position: static;
+}
+
+.first{
+	background-color: darkred;
+	position: relative;
+}
+
+.second{
+	background-color: peru;
+	position: relative;
+	margin-left: 30px;
+	margin-top: -30px;
+}
+
+.third{
+	background-color: indianred;
+	position: relative;
+	margin-top: 20px;
+	width: 540px;
+	height: 300px;
+}
+
+.absolute{
+	background-color: indigo;
+	width: 250px;
+	height: 150px;
+	position: absolute;
+	top: 400px;
+	left: 298px;
+}
+
+.fixed{
+	background-color: forestgreen;
+	max-width: 100px;
+	width: fit-content;
+	height: 100px;
+	margin-top: 50px;
+	position: fixed;
+	right: 0;
+	bottom: 0;
+	z-index:-1;
+}
